@@ -1,0 +1,6 @@
+{
+  "name": "Vice City Web: 3D GTA Multiplayer",
+  "description": "3D open-world GTA-style AAA browser game with realistic vehicle and pedestrian physics, real-time multiplayer, touchscreen, and gamepad support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
